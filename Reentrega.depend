@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1605536126 source:c:\users\guxa\desktop\reentrega\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1605534186 c:\users\guxa\desktop\reentrega\lista.h
+
+1605534186 source:c:\users\guxa\desktop\reentrega\mapeo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"mapeo.h"
+
+1605534186 c:\users\guxa\desktop\reentrega\mapeo.h
+	"lista.h"
+
+1605537521 source:c:\users\guxa\desktop\reentrega\evaluador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"mapeo.h"
+
+1605540424 source:c:\users\szaba\documents\guada\orga\proyecto\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1605540424 c:\users\szaba\documents\guada\orga\proyecto\lista.h
+
+1605818414 source:c:\users\szaba\documents\guada\orga\proyecto\mapeo.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"mapeo.h"
+
+1605540424 c:\users\szaba\documents\guada\orga\proyecto\mapeo.h
+	"lista.h"
+
+1605830082 source:c:\users\szaba\documents\guada\orga\proyecto\evaluador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"mapeo.h"
+
